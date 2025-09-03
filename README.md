@@ -1,9 +1,9 @@
-🎹 #Elegant Piano Visualizer
+🎹 # Elegant Piano Visualizer
 
 Elegant Piano Visualizer is a small interactive piano built with Python and Pygame.
 Play the piano with your keyboard or mouse, watch a reactive visualizer, toggle autoplay. The project ships with two octaves (C4–B5) and is easy to extend.
 
-##Features
+## Features
 
 Interactive piano UI with white & black keys and key highlighting.
 
@@ -17,7 +17,7 @@ Auto-play mode (random)
 
 Packaging-ready for a standalone .exe via PyInstaller.
 
-##Controls
+## Controls
 
 Play keys with keyboard rows:
 
@@ -37,7 +37,8 @@ P — randomize visualizer colors.
 
 L — clear visualizer current level.
 
-##Requirements
+## Requirements
 
 Python 3.8+ (works with current Pygame versions)
+
 pygame
